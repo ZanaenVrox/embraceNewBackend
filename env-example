@@ -1,0 +1,23 @@
+PORT=5000
+MONGO_URI=mongodb+srv://embuser:vznX0voEFTa6pHsS@embrace0.5dzfh5w.mongodb.net/embrace0
+# MONGO_URI=mongodb://0.0.0.0:27017/embrace
+JWT_SECRET=80f8559ef51f79e929336ca0dfe3a77e23286219a41894c9c4ccf6ce6d2f8de0
+JWT_SECRET_FOR_VERIFY=33b626bbd4927f5a4fcd0d0429fbcdef3fdcc85bdabb16639533ca3c7cbd4a2f
+
+IMAGE_PATH_LINK = https://app.embracecomfort.com/
+
+SERVICE="gmail"
+EMAIL_USER="embracecomfortdotcom@gmail.com"
+EMAIL_PASS="jkasykdpbnhzyatk"
+# EMAIL_PASS="Z1c7WRb#94y"
+# EMAIL_PASS="jkas-ykdp-bnhz-yatk"
+HOST="smtp.gmail.com"
+EMAIL_PORT=587
+
+EXPO_ACCESS_TOKEN='_WTkfQZPjTsD-0oENBeo_V4MB9y4mRC5NFFlCK-I'
+
+
+SWIFTAPI_BASE_URL=https://gateway-prod.swyftlogistics.com/vendor/api/
+SWIFT_API_KEY=6364a5128a2bad1135e4c04d
+SWIFT_API_AUTH_TOKEN=db84f1b8-2ddd-443f-98b0-4f28012f223d-6364a5128a2bad1135e4c04d
+SWIFT_SHIPPER_ID=PL-830983
