@@ -147,9 +147,13 @@ router.post("/show_symptom/:user_id", showSymptons);
 
 // menstrualRoutes
 router.post("/menstrualRoutes/create", createMenstrualCycle);
+
 router.post("/menstrualRoutes/nextCycle/:user_id", nextCycle);
+
 router.get("/menstrualRoutes/daysLeft/:current_date/:user_id", DaysLeft);
+
 router.get("/menstrualRoutes/all", Get);
+
 router.get("/menstrualRoutes/details", Detail);
 
 router.post("/periodDateChecker", periodDateChecker);
