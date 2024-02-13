@@ -245,7 +245,7 @@ const login = async (req, res) => {
 };
 
 const addLastPeriodDate = async (req, res) => {
-  console.log("hi", req.body);
+  console.log("S", req.body);
 
   try {
     //res.json(req.body);
